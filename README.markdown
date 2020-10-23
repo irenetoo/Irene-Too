@@ -1,4 +1,4 @@
-# [Personal blog on my coding journey](https://lengtt.github.io/Irene-Too/)
+## [Github page with Jekyll](https://lengtt.github.io/Irene-Too/)
 Github page built using Jekyll ((https://jekyllrb.com/)
 
 ## Code of Conduct
