@@ -1,5 +1,6 @@
-## [Github page with Jekyll](https://lengtt.github.io/Irene-Too/)
-Github page built using Jekyll ((https://jekyllrb.com/)
+## [In progress](https://lengtt.github.io/Irene-Too/)
+
+
 
 ## Code of Conduct
 
@@ -8,5 +9,5 @@ In order to have a more open and welcoming community, Jekyll adheres to a
 conduct.
 
 ## License
-
+Jekyll template ((https://jekyllrb.com/)
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
